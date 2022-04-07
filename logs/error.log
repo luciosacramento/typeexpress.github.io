@@ -1,0 +1,7 @@
+2022-04-04 15:49:05:495 - [31merror[39m - [31mNão foi posivel conectar![39m
+2022-04-04 15:49:19:4919 - [31merror[39m - [31mNão foi posivel conectar![39m
+2022-04-04 15:49:19:4919 - [31merror[39m - [31mError: Error: querySrv ENOTFOUND _mongodb._tcp.cluster04.mnoyz.mongodb.net[39m
+2022-04-04 15:49:26:4926 - [31merror[39m - [31mNão foi posivel conectar![39m
+2022-04-05 15:18:46:1846 - [31merror[39m - [31mNão foi posivel conectar![39m
+2022-04-05 16:37:20:3720 - [31merror[39m - [31mErro no sistema: Cast to ObjectId failed for value "624c913fa75bf00ad4c4b97" (type string) at path "_id" for model "Movie"[39m
+2022-04-06 11:07:33:733 - [31merror[39m - [31mNão foi possivel conectar![39m
